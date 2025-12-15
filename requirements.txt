@@ -1,0 +1,14 @@
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+streamlit
+plotly
+scikit-learn
+joblib
+langchain
+langchain-community
+langchain-core
+langchain-mistralai
+faiss-cpu
+sentence-transformers
